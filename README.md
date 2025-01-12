@@ -12,22 +12,11 @@ A Medical Imaging Diagnosis Agent build on phidata powered by Gemini 2.0 Flash E
   - Image Quality Assessment
   - Research and Reference
 
-## How to Run
 
-1. **Setup Environment**
-   ```bash
-   # Clone the repository
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd ai_agent_tutorials/ai_medical_imaging_agent
-
-   # Install dependencies
-   pip install -r requirements.txt
-   ```
-
-2. **Configure API Keys**
+1. **Configure API Keys**
    - Get Google API key from [Google AI Studio](https://aistudio.google.com)
 
-3. **Run the Application**
+2. **Run the Application**
    ```bash
    streamlit run ai_medical_imaging.py
    ```
